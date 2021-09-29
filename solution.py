@@ -7,7 +7,7 @@ def welcome_assignment_answers(question):
     #Another way to implement is using a "case" statements similar to C.
     
   
-    elif question == "In Slack, what is the secret passphrase posted in the #cyberfellows-computernetworking-fall2021 channel posted by a TA?":
+    if question == "In Slack, what is the secret passphrase posted in the #cyberfellows-computernetworking-fall2021 channel posted by a TA?":
         answer = "mTLS"
     elif question == "Are encoding and encryption the same? - Yes/No":
         answer = "No"
