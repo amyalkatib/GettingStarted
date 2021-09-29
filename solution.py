@@ -2,8 +2,7 @@
 ### Input - All eight questions given in the assignment.
 ### Output - The right answer for the specific question.
 
-def welcome_assignment_answers(question):
-    answer = 5
+def welcome_assignment_answers
     #The student doesn't have to follow the skeleton for this assignment.
     #Another way to implement is using a "case" statements similar to C.
     if question == "In Slack, what is the secret passphrase posted in the #cyberfellows-computernetworking-fall2021 channel posted by a TA?":
